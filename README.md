@@ -1,23 +1,29 @@
 # Apartment-Rent-Classifier
 
+## Project Overview
+
+This project analyzes apartment rental data to explore rental prices based on various features like location, apartment size, amenities, and more. The project focuses on visualizing trends in rental prices using Power BI.
+The main goal of this project is to explore apartment rents and uncover trends in rental prices based on various influencing factors. 
+
 ![image](https://github.com/user-attachments/assets/ce6a2069-9853-458a-af9b-4b9206e5c83a)
 
 
 ### Dashboard Link: https://vimeo.com/1060750460?share=copy#t=0
 
-## Project Overview
-
-This project analyzes apartment rental data to explore rental prices based on various features like location, apartment size, amenities, and more. The project focuses on visualizing trends in rental prices using Power BI.
-The main goal of this project is to explore apartment rents and uncover trends in rental prices based on various influencing factors. This involves:
+This involves:
 
 Data cleaning and preprocessing
 Exploratory Data Analysis (EDA) and feature engineering
-Creating visualizations and dashboards in Power BI
+Creating visualizations and dashboards in Power BI and derived some new columns.
+
+
 Key Features
 Spatial Analysis: Visualizing apartment rent trends on geographical maps in Power BI.
-Time Series Analysis: Analyzing rental price trends over time.
 Data Classification: Exploring the distribution of rental prices across various apartment features like size, location, and amenities.
-Technologies Used
+
+
+
+## Technologies Used
 Power BI: Creating dashboards for analysis and visualizations.
 Python: Data preprocessing and feature engineering (Pandas, NumPy).
 SQL: Data querying for analysis.
@@ -39,6 +45,9 @@ The dataset is used to analyze and visualize rent prices based on the available 
 A single-page report was created on Power BI Desktop & it was then published to Power BI Service.
 
 The following inferences can be drawn from the dashboard;
+
+![image](https://github.com/user-attachments/assets/ff3f109d-1d98-4cd3-81c8-8be487d5e438)
+
 
 
 
