@@ -1,6 +1,6 @@
 # Apartment-Rent-Classifier
 
-
+images/Rentals_LP_Illustration3.png
 
 ### Dashboard Link : https://vimeo.com/1060750460?share=copy#t=0
 
